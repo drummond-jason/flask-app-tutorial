@@ -1,5 +1,5 @@
 venv/
 __pycache__/
 instance/*
-static/profile_pics/*
-!static/profile_pics/default.jpg
+flaskblog/static/profile_pics/*
+!flaskblog/static/profile_pics/default.jpg
